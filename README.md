@@ -7,14 +7,18 @@ This analysis examines 11 major browser applications' usage and engagement rates
 
 **SKILLS**
 
-Data extraction: Pulled browser usage data from Google Analytics including metrics like unique users, new users, and engagement rate for the date range
-Data cleaning: Filtered and processed data to focus analysis on key browser applications
+Data extraction: Pulled browser usage data from Google Analytics including metrics like unique users, new users, and engagement rate for the date range.
+
+Data cleaning: Filtered and processed data to focus analysis on key browser applications.
+
 Analysis: Leveraged Google Analytics to analyze browser usage and engagement rates. Used statistical methods like percent contributions to quantify browser popularity and engagement.
 
 **ANALYSIS**
 
 Descriptive Analysis: Calculated browser popularity rankings and engagement rates. Chrome had 46% user share, Android WebView 19% share. Top browsers drove over 80% of traffic.
+
 Diagnostic Analysis: Identified differences in engagement rates across browsers. 
+
 Amazon Silk and Phoenix had 100% engagement, while Chrome and Samsung Internet had 39% and 35% engagement rate.
 
 
@@ -23,10 +27,10 @@ Amazon Silk and Phoenix had 100% engagement, while Chrome and Samsung Internet h
 
 Chrome captured 46% unique users - the dominant share. Android WebView followed with 19% then Safari at 10%. Collectively the top browsers accounted for over 80% of sessions.
 In contrast, widely used Chrome saw only 39% engagement rate.
-Findings indicate Chrome has the highest 46% market share, followed by Android WebView (19%) and Safari (10%). 
-However, Amazon Silk and Phoenix browser demonstrate 100% engagement rates, versus Chrome's 39% - suggesting optimizations to stability and compatibility could improve user experience.
+This indicate Chrome has the highest 46% market share, followed by Android WebView (19%) and Safari (10%). 
+However, Amazon Silk and Phoenix browser demonstrate 100% engagement rates, compared to Chrome's 39% - suggesting optimizations to stability and compatibility could improve user experience.
 Outcomes showcase discrepancies between browser market penetration and ability to retain users. 
-The findings suggest comparatively less known applications like Amazon Silk and Phoenix enable consistently positive user experiences based on engagement scores. 
+The results suggest comparatively less known applications like Amazon Silk and Phoenix enable consistently positive user experiences based on engagement scores. 
 Meanwhile extensively utilized options like Chrome display technical difficulties leading users to abandon sessions prematurely despite familiarity - evidenced by the platform's 46% adoption but just 
 39% engagement rate.
 
